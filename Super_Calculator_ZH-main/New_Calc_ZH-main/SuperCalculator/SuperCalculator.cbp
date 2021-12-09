@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="SuperCalculator" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/SuperCalculator" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/SuperCalculator" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Calculator.cpp" />
+		<Unit filename="NumPad.cpp" />
+		<Unit filename="NumPadControl.cpp" />
+		<Unit filename="PrintCalculator.cpp" />
+		<Unit filename="StarMenuColor.cpp" />
+		<Unit filename="StartMenuLogic.cpp" />
+		<Unit filename="cCompare.cpp" />
+		<Unit filename="calcButtons.cpp" />
+		<Unit filename="calculationController.cpp" />
+		<Unit filename="calculation_operator_multiply.cpp" />
+		<Unit filename="calculation_operator_plus.cpp" />
+		<Unit filename="chatToInt.cpp" />
+		<Unit filename="cmultiply.cpp" />
+		<Unit filename="countZeros.cpp" />
+		<Unit filename="csubstract.cpp" />
+		<Unit filename="csum.cpp" />
+		<Unit filename="gotoxy.cpp" />
+		<Unit filename="hideCursor.cpp" />
+		<Unit filename="isPositive.cpp" />
+		<Unit filename="itc_len.cpp" />
+		<Unit filename="itc_removeSpace.cpp" />
+		<Unit filename="itc_reverse_str.cpp" />
+		<Unit filename="itc_slice_str.cpp" />
+		<Unit filename="itc_toInt.cpp" />
+		<Unit filename="itc_toString.cpp" />
+		<Unit filename="main.cpp" />
+		<Unit filename="noMinus.cpp" />
+		<Unit filename="noZero.cpp" />
+		<Unit filename="operationsList.cpp" />
+		<Unit filename="options.cpp" />
+		<Unit filename="screenPrint.cpp" />
+		<Unit filename="sliceZeros.cpp" />
+		<Unit filename="substractCalculation.cpp" />
+		<Unit filename="super_calculator_zh.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,383 @@
+# depslib dependency file v1.0
+1637829451 source:c:\users\Администратор\documents\projects\supercalculator\ccompare.cpp
+	"super_calculator_zh.h"
+
+1637829489 c:\users\Администратор\documents\projects\supercalculator\super_calculator_zh.h
+	<iostream>
+	<string>
+
+1637828631 source:c:\users\Администратор\documents\projects\supercalculator\csum.cpp
+	"super_calculator_zh.h"
+
+1637828660 source:c:\users\Администратор\documents\projects\supercalculator\itc_len.cpp
+	"super_calculator_zh.h"
+
+1637829506 source:c:\users\Администратор\documents\projects\supercalculator\main.cpp
+	"super_calculator_zh.h"
+
+1638095102 source:d:\project\supercalculator\ccompare.cpp
+	"super_calculator_zh.h"
+
+1638390900 d:\project\supercalculator\super_calculator_zh.h
+	<iostream>
+	<string>
+	<conio.h>
+	<windows.h>
+
+1638034468 source:d:\project\supercalculator\csum.cpp
+	"super_calculator_zh.h"
+
+1637833202 source:d:\project\supercalculator\itc_len.cpp
+	"super_calculator_zh.h"
+
+1638391028 source:d:\project\supercalculator\main.cpp
+	"super_calculator_zh.h"
+
+1638031285 source:d:\project\supercalculator\itc_tostring.cpp
+	"super_calculator_zh.h"
+
+1638032193 source:d:\project\supercalculator\itc_reverse_str.cpp
+	"super_calculator_zh.h"
+
+1638095109 source:d:\project\supercalculator\csubstract.cpp
+	"super_calculator_zh.h"
+
+1638042817 source:d:\project\supercalculator\itc_slice_str.cpp
+	"super_calculator_zh.h"
+
+1638044479 source:d:\project\supercalculator\nozero.cpp
+	"super_calculator_zh.h"
+
+1638045176 source:d:\project\supercalculator\substractcalculation.cpp
+	"super_calculator_zh.h"
+
+1638386861 source:d:\project\supercalculator\calculationcontroller.cpp
+	"super_calculator_zh.h"
+
+1638089587 source:d:\project\supercalculator\ispositive.cpp
+	"super_calculator_zh.h"
+
+1638091288 source:d:\project\supercalculator\nominus.cpp
+	"super_calculator_zh.h"
+
+1638097082 source:d:\project\supercalculator\calculation_operator_plus.cpp
+	"super_calculator_zh.h"
+
+1638093005 source:d:\project\supercalculator\calculation_operator_minus.cpp
+	"super_calculator_zh.h"
+
+1638386739 source:d:\project\supercalculator\calculation_operator_multiply.cpp
+	"super_calculator_zh.h"
+
+1638111440 source:d:\project\supercalculator\cmultiply.cpp
+	"super_calculator_zh.h"
+
+1638105264 source:d:\project\supercalculator\itc_toint.cpp
+	"super_calculator_zh.h"
+
+1638105831 source:d:\project\supercalculator\countzeros.cpp
+	"super_calculator_zh.h"
+
+1638111405 source:d:\project\supercalculator\slicezeros.cpp
+	"super_calculator_zh.h"
+
+1638390117 source:d:\project\supercalculator\gotoxy.cpp
+	"super_calculator_zh.h"
+
+1638390167 source:d:\project\supercalculator\starmenucolor.cpp
+	"super_calculator_zh.h"
+
+1638391040 source:d:\project\supercalculator\startmenulogic.cpp
+	"super_calculator_zh.h"
+
+1638391182 source:c:\users\Администратор\desktop\super_calculator-main\supercalculator\calculation_operator_multiply.cpp
+	"super_calculator_zh.h"
+
+1638437409 c:\users\Администратор\desktop\super_calculator-main\supercalculator\super_calculator_zh.h
+	<iostream>
+	<string>
+	<conio.h>
+	<windows.h>
+
+1638391182 source:c:\users\Администратор\desktop\super_calculator-main\supercalculator\calculation_operator_plus.cpp
+	"super_calculator_zh.h"
+
+1638391182 source:c:\users\Администратор\desktop\super_calculator-main\supercalculator\calculationcontroller.cpp
+	"super_calculator_zh.h"
+
+1638391182 source:c:\users\Администратор\desktop\super_calculator-main\supercalculator\ccompare.cpp
+	"super_calculator_zh.h"
+
+1638391182 source:c:\users\Администратор\desktop\super_calculator-main\supercalculator\cmultiply.cpp
+	"super_calculator_zh.h"
+
+1638391182 source:c:\users\Администратор\desktop\super_calculator-main\supercalculator\countzeros.cpp
+	"super_calculator_zh.h"
+
+1638391182 source:c:\users\Администратор\desktop\super_calculator-main\supercalculator\csubstract.cpp
+	"super_calculator_zh.h"
+
+1638391182 source:c:\users\Администратор\desktop\super_calculator-main\supercalculator\csum.cpp
+	"super_calculator_zh.h"
+
+1638391182 source:c:\users\Администратор\desktop\super_calculator-main\supercalculator\gotoxy.cpp
+	"super_calculator_zh.h"
+
+1638391182 source:c:\users\Администратор\desktop\super_calculator-main\supercalculator\ispositive.cpp
+	"super_calculator_zh.h"
+
+1638391182 source:c:\users\Администратор\desktop\super_calculator-main\supercalculator\itc_len.cpp
+	"super_calculator_zh.h"
+
+1638391182 source:c:\users\Администратор\desktop\super_calculator-main\supercalculator\itc_reverse_str.cpp
+	"super_calculator_zh.h"
+
+1638391182 source:c:\users\Администратор\desktop\super_calculator-main\supercalculator\itc_slice_str.cpp
+	"super_calculator_zh.h"
+
+1638391182 source:c:\users\Администратор\desktop\super_calculator-main\supercalculator\itc_toint.cpp
+	"super_calculator_zh.h"
+
+1638391182 source:c:\users\Администратор\desktop\super_calculator-main\supercalculator\itc_tostring.cpp
+	"super_calculator_zh.h"
+
+1638437989 source:c:\users\Администратор\desktop\super_calculator-main\supercalculator\main.cpp
+	"super_calculator_zh.h"
+
+1638391182 source:c:\users\Администратор\desktop\super_calculator-main\supercalculator\nominus.cpp
+	"super_calculator_zh.h"
+
+1638391182 source:c:\users\Администратор\desktop\super_calculator-main\supercalculator\nozero.cpp
+	"super_calculator_zh.h"
+
+1638391182 source:c:\users\Администратор\desktop\super_calculator-main\supercalculator\slicezeros.cpp
+	"super_calculator_zh.h"
+
+1638391182 source:c:\users\Администратор\desktop\super_calculator-main\supercalculator\starmenucolor.cpp
+	"super_calculator_zh.h"
+
+1638437409 source:c:\users\Администратор\desktop\super_calculator-main\supercalculator\startmenulogic.cpp
+	"super_calculator_zh.h"
+
+1638391182 source:c:\users\Администратор\desktop\super_calculator-main\supercalculator\substractcalculation.cpp
+	"super_calculator_zh.h"
+
+1638437712 source:c:\users\Администратор\desktop\super_calculator-main\supercalculator\calculator.cpp
+	"super_calculator_zh.h"
+
+1638433917 source:c:\users\Администратор\desktop\super_calculator-main\supercalculator\itc_removespace.cpp
+	"super_calculator_zh.h"
+
+1638437989 source:c:\users\Администратор\desktop\super_calculator-main\supercalculator\numpad.cpp
+	"super_calculator_zh.h"
+
+1638438735 source:d:\project\new_calc_zh-main\supercalculator\calculation_operator_multiply.cpp
+	"super_calculator_zh.h"
+
+1638989942 d:\project\new_calc_zh-main\supercalculator\super_calculator_zh.h
+	<iostream>
+	<string>
+	<conio.h>
+	<windows.h>
+
+1638438735 source:d:\project\new_calc_zh-main\supercalculator\calculation_operator_plus.cpp
+	"super_calculator_zh.h"
+
+1638438735 source:d:\project\new_calc_zh-main\supercalculator\calculationcontroller.cpp
+	"super_calculator_zh.h"
+
+1638989073 source:d:\project\new_calc_zh-main\supercalculator\calculator.cpp
+	"super_calculator_zh.h"
+
+1638438735 source:d:\project\new_calc_zh-main\supercalculator\ccompare.cpp
+	"super_calculator_zh.h"
+
+1638438735 source:d:\project\new_calc_zh-main\supercalculator\cmultiply.cpp
+	"super_calculator_zh.h"
+
+1638438735 source:d:\project\new_calc_zh-main\supercalculator\countzeros.cpp
+	"super_calculator_zh.h"
+
+1638438735 source:d:\project\new_calc_zh-main\supercalculator\csubstract.cpp
+	"super_calculator_zh.h"
+
+1638438735 source:d:\project\new_calc_zh-main\supercalculator\csum.cpp
+	"super_calculator_zh.h"
+
+1638438735 source:d:\project\new_calc_zh-main\supercalculator\gotoxy.cpp
+	"super_calculator_zh.h"
+
+1638438735 source:d:\project\new_calc_zh-main\supercalculator\ispositive.cpp
+	"super_calculator_zh.h"
+
+1638438735 source:d:\project\new_calc_zh-main\supercalculator\itc_len.cpp
+	"super_calculator_zh.h"
+
+1638438735 source:d:\project\new_calc_zh-main\supercalculator\itc_removespace.cpp
+	"super_calculator_zh.h"
+
+1638438735 source:d:\project\new_calc_zh-main\supercalculator\itc_reverse_str.cpp
+	"super_calculator_zh.h"
+
+1638438735 source:d:\project\new_calc_zh-main\supercalculator\itc_slice_str.cpp
+	"super_calculator_zh.h"
+
+1638438735 source:d:\project\new_calc_zh-main\supercalculator\itc_toint.cpp
+	"super_calculator_zh.h"
+
+1638438735 source:d:\project\new_calc_zh-main\supercalculator\itc_tostring.cpp
+	"super_calculator_zh.h"
+
+1638638819 source:d:\project\new_calc_zh-main\supercalculator\main.cpp
+	"super_calculator_zh.h"
+
+1638438735 source:d:\project\new_calc_zh-main\supercalculator\nominus.cpp
+	"super_calculator_zh.h"
+
+1638438735 source:d:\project\new_calc_zh-main\supercalculator\nozero.cpp
+	"super_calculator_zh.h"
+
+1638638184 source:d:\project\new_calc_zh-main\supercalculator\numpad.cpp
+	"super_calculator_zh.h"
+
+1638551900 source:d:\project\new_calc_zh-main\supercalculator\numpadcontrol.cpp
+	"super_calculator_zh.h"
+
+1638438735 source:d:\project\new_calc_zh-main\supercalculator\slicezeros.cpp
+	"super_calculator_zh.h"
+
+1638438735 source:d:\project\new_calc_zh-main\supercalculator\starmenucolor.cpp
+	"super_calculator_zh.h"
+
+1638990858 source:d:\project\new_calc_zh-main\supercalculator\startmenulogic.cpp
+	"super_calculator_zh.h"
+
+1638438735 source:d:\project\new_calc_zh-main\supercalculator\substractcalculation.cpp
+	"super_calculator_zh.h"
+
+1638551348 source:d:\project\new_calc_zh-main\supercalculator\hidecursor.cpp
+	"super_calculator_zh.h"
+
+1638551902 source:d:\project\new_calc_zh-main\supercalculator\calcbuttons.cpp
+	"super_calculator_zh.h"
+
+1638554506 source:d:\project\new_calc_zh-main\supercalculator\chattoint.cpp
+	"super_calculator_zh.h"
+
+1638987834 source:d:\project\new_calc_zh-main\supercalculator\printcalculator.cpp
+	"super_calculator_zh.h"
+
+1638627796 source:d:\project\new_calc_zh-main\supercalculator\screenprint.cpp
+	"super_calculator_zh.h"
+
+1638990876 source:d:\project\new_calc_zh-main\supercalculator\operationslist.cpp
+	"super_calculator_zh.h"
+
+1638990203 source:d:\project\new_calc_zh-main\supercalculator\options.cpp
+	"super_calculator_zh.h"
+
+1638991148 source:c:\users\Администратор\downloads\super_calculator_zh-main\new_calc_zh-main\supercalculator\calcbuttons.cpp
+	"super_calculator_zh.h"
+
+1639029841 c:\users\Администратор\downloads\super_calculator_zh-main\new_calc_zh-main\supercalculator\super_calculator_zh.h
+	<iostream>
+	<string>
+	<conio.h>
+	<windows.h>
+
+1638991148 source:c:\users\Администратор\downloads\super_calculator_zh-main\new_calc_zh-main\supercalculator\calculation_operator_multiply.cpp
+	"super_calculator_zh.h"
+
+1639031094 source:c:\users\Администратор\downloads\super_calculator_zh-main\new_calc_zh-main\supercalculator\calculation_operator_plus.cpp
+	"super_calculator_zh.h"
+
+1639030843 source:c:\users\Администратор\downloads\super_calculator_zh-main\new_calc_zh-main\supercalculator\calculationcontroller.cpp
+	"super_calculator_zh.h"
+
+1638991148 source:c:\users\Администратор\downloads\super_calculator_zh-main\new_calc_zh-main\supercalculator\calculator.cpp
+	"super_calculator_zh.h"
+
+1638991148 source:c:\users\Администратор\downloads\super_calculator_zh-main\new_calc_zh-main\supercalculator\ccompare.cpp
+	"super_calculator_zh.h"
+
+1638991148 source:c:\users\Администратор\downloads\super_calculator_zh-main\new_calc_zh-main\supercalculator\chattoint.cpp
+	"super_calculator_zh.h"
+
+1638991148 source:c:\users\Администратор\downloads\super_calculator_zh-main\new_calc_zh-main\supercalculator\cmultiply.cpp
+	"super_calculator_zh.h"
+
+1638991148 source:c:\users\Администратор\downloads\super_calculator_zh-main\new_calc_zh-main\supercalculator\countzeros.cpp
+	"super_calculator_zh.h"
+
+1638991148 source:c:\users\Администратор\downloads\super_calculator_zh-main\new_calc_zh-main\supercalculator\csubstract.cpp
+	"super_calculator_zh.h"
+
+1639031079 source:c:\users\Администратор\downloads\super_calculator_zh-main\new_calc_zh-main\supercalculator\csum.cpp
+	"super_calculator_zh.h"
+
+1638991148 source:c:\users\Администратор\downloads\super_calculator_zh-main\new_calc_zh-main\supercalculator\gotoxy.cpp
+	"super_calculator_zh.h"
+
+1638991148 source:c:\users\Администратор\downloads\super_calculator_zh-main\new_calc_zh-main\supercalculator\hidecursor.cpp
+	"super_calculator_zh.h"
+
+1638991148 source:c:\users\Администратор\downloads\super_calculator_zh-main\new_calc_zh-main\supercalculator\ispositive.cpp
+	"super_calculator_zh.h"
+
+1638991148 source:c:\users\Администратор\downloads\super_calculator_zh-main\new_calc_zh-main\supercalculator\itc_len.cpp
+	"super_calculator_zh.h"
+
+1638991148 source:c:\users\Администратор\downloads\super_calculator_zh-main\new_calc_zh-main\supercalculator\itc_removespace.cpp
+	"super_calculator_zh.h"
+
+1638991148 source:c:\users\Администратор\downloads\super_calculator_zh-main\new_calc_zh-main\supercalculator\itc_reverse_str.cpp
+	"super_calculator_zh.h"
+
+1638991148 source:c:\users\Администратор\downloads\super_calculator_zh-main\new_calc_zh-main\supercalculator\itc_slice_str.cpp
+	"super_calculator_zh.h"
+
+1638991148 source:c:\users\Администратор\downloads\super_calculator_zh-main\new_calc_zh-main\supercalculator\itc_toint.cpp
+	"super_calculator_zh.h"
+
+1638991148 source:c:\users\Администратор\downloads\super_calculator_zh-main\new_calc_zh-main\supercalculator\itc_tostring.cpp
+	"super_calculator_zh.h"
+
+1639031511 source:c:\users\Администратор\downloads\super_calculator_zh-main\new_calc_zh-main\supercalculator\main.cpp
+	"super_calculator_zh.h"
+
+1638991148 source:c:\users\Администратор\downloads\super_calculator_zh-main\new_calc_zh-main\supercalculator\nominus.cpp
+	"super_calculator_zh.h"
+
+1639030843 source:c:\users\Администратор\downloads\super_calculator_zh-main\new_calc_zh-main\supercalculator\nozero.cpp
+	"super_calculator_zh.h"
+
+1638991148 source:c:\users\Администратор\downloads\super_calculator_zh-main\new_calc_zh-main\supercalculator\numpad.cpp
+	"super_calculator_zh.h"
+
+1638991148 source:c:\users\Администратор\downloads\super_calculator_zh-main\new_calc_zh-main\supercalculator\numpadcontrol.cpp
+	"super_calculator_zh.h"
+
+1639034227 source:c:\users\Администратор\downloads\super_calculator_zh-main\new_calc_zh-main\supercalculator\operationslist.cpp
+	"super_calculator_zh.h"
+
+1638991148 source:c:\users\Администратор\downloads\super_calculator_zh-main\new_calc_zh-main\supercalculator\options.cpp
+	"super_calculator_zh.h"
+
+1638991148 source:c:\users\Администратор\downloads\super_calculator_zh-main\new_calc_zh-main\supercalculator\printcalculator.cpp
+	"super_calculator_zh.h"
+
+1638991148 source:c:\users\Администратор\downloads\super_calculator_zh-main\new_calc_zh-main\supercalculator\screenprint.cpp
+	"super_calculator_zh.h"
+
+1638991148 source:c:\users\Администратор\downloads\super_calculator_zh-main\new_calc_zh-main\supercalculator\slicezeros.cpp
+	"super_calculator_zh.h"
+
+1638991148 source:c:\users\Администратор\downloads\super_calculator_zh-main\new_calc_zh-main\supercalculator\starmenucolor.cpp
+	"super_calculator_zh.h"
+
+1639034987 source:c:\users\Администратор\downloads\super_calculator_zh-main\new_calc_zh-main\supercalculator\startmenulogic.cpp
+	"super_calculator_zh.h"
+
+1638991148 source:c:\users\Администратор\downloads\super_calculator_zh-main\new_calc_zh-main\supercalculator\substractcalculation.cpp
+	"super_calculator_zh.h"
+
